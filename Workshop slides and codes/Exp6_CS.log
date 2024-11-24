@@ -1,0 +1,28 @@
+LTspice 24.0.12 for Windows
+Circuit: * C:\Users\rajhb\OneDrive\Desktop\Old files\Exp6_CS.asc
+Start Time: Fri Oct 18 14:42:22 2024
+solver = Normal
+Maximum thread count: 12
+tnom = 27
+temp = 27
+method = modified trap
+Direct Newton iteration for .op point succeeded.
+Semiconductor Device Operating Points:
+                        --- BSIM4 MOSFETS ---
+Name:      m1
+Model:  nmos_vth
+Id:      8.15e-05
+Vgs:     7.60e-01
+Vds:     9.85e-01
+Vbs:     0.00e+00
+Vth:     6.00e-01
+Vdsat:   1.62e-01
+Gm:      7.21e-04
+Gds:     1.01e-05
+Gmb      1.71e-04
+Cbd:     3.99e-16
+Cbs:     8.00e-16
+
+
+Total elapsed time: 0.145 seconds.
+
